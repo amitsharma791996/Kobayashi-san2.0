@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kobayashi-san",
+  "private_key_id": "b41198517dfa0cecd7a44b6cb9ab06d15feea7bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxmeGFBfziPRrX\nWncn7+eX9XOaTTXU000KHPIiCbkV9nxrve2mHvaDhAIeKSWUloZA43MQ4JAisylw\ntAZ0ZqMH4s4fdFdBjV6oveHHhT5B7YDcTml4mFHfdHoLvzFCxFK72anwtGaOB6ek\nNt4CVm07cRxA0cfnM3yNNQ1Fh9ITU1ZObdz1F9nQmMw8yPJghs2KvDforBVoQi6k\nwx2QjoBW1ibGwxok58/AMxv/h184buoyElDepHW9xaZQ/c6KHfZP+rFYRg9vkuCd\nVru6z/167gnOD1h97f5/9mQaEwzc79hMI+oXH/xxs233XMu7ucysgaqsFvlic4et\niPMlgyMbAgMBAAECggEACLbNX++GE7uxZqhweRJf9KhjpOO6iz5Xsb7vcOG1P4sG\njWrJdef5at6K4Nv3+604prpopobxZSJ3tNxaBlNHsIoqWIfznndg3tRIqoRMV7b4\nwAm0FxyyKudvwMYyyCnfcIqJHt+OU9QZ7G7DJq42HqW5uY+rFU1raqpHUNNAzxd0\nxabGcKJIRlKQck77rpXYzztZhDY02QQjkQdf9cHXaJf+JWDdwjboeY8Dnar5x3br\nJR4+JOz8LOW5OYJ/C4/u9lsKCLWTqBZVkmZjxV5YQScgKpj7ivJtykTeOO2Jmtc8\nrlMReh+pEu+/pFMXYDmOg4Au3RJo0R28s0hpq30rMQKBgQDZnaumJnvVWHt+JtXb\n7c1OV1YHONYkBu8XRyyGvAXCacgrkX0dQ1b2VcmAIpdRhUmK20S9Aw0FGP9134CP\nJjAR8qMRh7fsOJbuJTn9qhL5S8cYAMQKIVyGo/KFoT3nP67pzdZupIga2arEpDPt\nxvZIHNXVE1DiVftqDFSSUEP7xwKBgQDQ7V0JOHe0roi4SD75eNAHBz/quhyeGrW7\nVjiJXYOmQzXjNyKlKIbLjtHnBqvCOXmuP1mwhUQcM2IPQiiHOjrySiPIJnCOdnu8\nRk9k0uL5NLXrAloB2CDOdBXKVJzFabm5mi/Rlp1b1Il9uTo246cNsjL8gbZeGawq\nKLYBj7HWDQKBgQC9CUwsfs2fnMdZ5J5t9/sajJ98kpDiputWy0sQl5BhO8bYof+P\nRgnq3sa1elb8R86EwsjJcDcFMJvpZwekUkX7sUyaU80fdGEX6lqf0fe9e2gtn6ys\nKCLaCt0H2/OMSDPHgjk9z8szl9XSD9nUObuDFRljiO4ATzShAKkOmI8VzQKBgB01\nMc56MHH3/HEW2Ibz1tFEuDDOd/W6cjGQajL5+c+ikcQEDznbooyOmNWdXyG1+0ba\n4GUHHHB81nafnx7YiykYKExw40dnVQELK0pDGSwRrGUAXSjo2B1EqU8x6QDIOQiz\nf3/jeHhADEChRnwp80683NfkImShXio+qsMpHYl5AoGBAJAtJ7lw0D2KYqBk63yZ\nIjoXrIUZtSEMvYhA3Jhp7vksJ1LeehFkBMl5Hmwd3faU41uaFWnbkc65YCrQlDrS\nDoDcrEs1FIlNq4xgG12M1zT3ds5y3UPEA9lM9TaHa9EXGvlkSy0aQtAUZuzDgEXG\nxdB9Pbe/zqGIPEH3GcQMkDSf\n-----END PRIVATE KEY-----\n",
+  "client_email": "misskobayashi-2@kobayashi-san.iam.gserviceaccount.com",
+  "client_id": "107265080274696290369",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/misskobayashi-2%40kobayashi-san.iam.gserviceaccount.com"
+}
